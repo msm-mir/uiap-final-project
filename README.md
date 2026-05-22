@@ -15,7 +15,7 @@ This project is a simple **To-Do List application** implemented in **C++** using
 - User-specific task assignments
 
 ### Multiple To-Do Lists
-- Create multiple lists with unique names and colors
+- Create multiple lists with unique names and optinal colors
 
 ### Task Management
 - Add tasks to any list
